@@ -80,17 +80,6 @@ Create a `data/` folder at the project root and add the results file for the yea
 data/wmt25_results.csv   # for WMT25
 data/wmt26_results.csv   # for WMT26
 ```
-
-Optional files, added the same way, unlock additional analyses (skipped gracefully if absent):
-
-```
-data/wmt{yy}_segment_results.csv   # segment-level scores
-data/wmt{yy}_judge_scores.csv      # LLM-judge scores
-data/wmt{yy}_human_scores.csv      # human ratings
-```
-
-If you add judge or human scores, also list the instrument names in `LLM_JUDGE_INSTRUMENTS` / `HUMAN_INSTRUMENTS` in `config.py`.
-
 ---
 
 ## Usage
