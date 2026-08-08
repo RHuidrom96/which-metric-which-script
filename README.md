@@ -66,7 +66,6 @@ Supports both **WMT25** and **WMT26** out of the box — language pairs, metric 
 ```bash
 git clone <repo-url>
 cd <repo-name>
-pip install -r requirements.txt
 ```
 
 Requires Python 3.9+.
