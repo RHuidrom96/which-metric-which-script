@@ -130,3 +130,13 @@ All tunable behavior lives in `config.py`:
 Run `python config.py` to print and validate the active configuration without executing the pipeline.
 
 ---
+```
+@inproceedings{huidrom-etal-2026-metric,
+  title     = {Which Metric for Which Script? A Quantified Meta-Evaluation of Automatic Metrics and LLM Judges for Low-Resource Indic Machine Translation},
+  author    = {Huidrom, Rudali and Kumar, Vikas and Pangsatabam, Hoomexsun and Das, Pinaki and Singh, Kshetrimayum Boynao and Konjengbam, Anand},
+  booktitle = {Proceedings of the Eleventh Conference on Machine Translation (WMT26)},
+  year      = {2026},
+  address   = {Budapest, Hungary},
+  publisher = {Association for Computational Linguistics}
+}
+```
